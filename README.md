@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @urisaulysv
+- 👀 I’m interested in OOP Coding
+- 🌱 I’m currently learning Python OOP
+- ⚡ Fun fact: All that wonder are not lost :) 
